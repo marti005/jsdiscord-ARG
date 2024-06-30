@@ -6,7 +6,8 @@ html, body {
 }
 
 img {
-    padding: 0 auto;
+    padding-left: auto;
+    padding-right: auto;
     display: block;
     margin: 0;
     max-height: 100%;
