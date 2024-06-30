@@ -2,6 +2,7 @@ html, body {
     height: 100%;
     margin: 0;
     padding: 0;
+    background: #000000;
 }
 
 img {
@@ -10,4 +11,5 @@ img {
     margin: 0;
     max-height: 100%;
     max-width: 100%;
+    background: #000000;
 }
